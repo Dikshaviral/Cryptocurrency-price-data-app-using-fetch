@@ -62,17 +62,6 @@ fetch(`${proxy}${url}`, {
 
 
 
-/*let key = "907ff6e3-161e-46c5-8676-1c8521d34962"
-
-let url = "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest";
-let qString = "?CMC_PRO_API_KEY=" + key ;
-
-fetch(url+qString)
-    .then(function(resp)
-    {
-        console.log(resp);
-    });*/
-
 
 
 
